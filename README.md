@@ -7,3 +7,5 @@ Controls:
 1: RNA codon(s) to Amino Acid(s)
 2: Single character Amino Acid code to Amino Acid
 3: Amino Acid to RNA codon
+
+I know it isn't prefect. If you want to just use the exe, you will probably need to download everything, although right now I will test not doing that.
