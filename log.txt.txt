@@ -1,0 +1,3 @@
+sorry about all the updates now. I stopped using visual studio so I had to clean up some junk. The executable should work. 
+
+No code was changed. Only comments added to assist those using it.
