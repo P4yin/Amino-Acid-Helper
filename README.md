@@ -9,3 +9,4 @@ Controls:
 3: Amino Acid to RNA codon
 
 I know it isn't prefect. If you want to just use the exe, you will probably need to download everything, although right now I will test not doing that.
+No fucking clue if exe works
