@@ -1,3 +1,5 @@
-sorry about all the updates now. I stopped using visual studio so I had to clean up some junk. The executable should work. 
+sorry about all the updates now. I stopped using visual studio so I had to clean up some junk.
 
 No code was changed. Only comments added to assist those using it.
+
+Oct 10 2020: Deleted exes as they didnt work. You will just have to download the code and use a compiler (I used mingw) to run the program :shrugs:
