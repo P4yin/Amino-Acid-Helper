@@ -9,3 +9,5 @@ Controls:
 3: Amino Acid to RNA codon
 
 I know it isn't prefect. 
+
+You can probably just use the header and cpp files for your own use.
